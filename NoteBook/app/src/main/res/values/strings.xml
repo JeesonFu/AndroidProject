@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="action_save">保存</string>
+    <string name="action_create">新建</string>
+    <string name="action_search">查找</string>
+    <string name="edittext">编辑</string>
+</resources>
